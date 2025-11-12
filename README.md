@@ -1,5 +1,4 @@
-# 🎮 Game Shop - A sua loja de games
-
+# 🎮 Game Shop
 Este é um projeto de site estático desenvolvido com HTML e CSS, representando uma loja fictícia de videogames chamada **Game Shop**. O objetivo é apresentar informações sobre a loja, suas marcas parceiras e canais de contato com um visual moderno e estilizado.</br>
 O Objetivo deste projeto não ser o mais completo, mas sim apenas usar como comparativo para projetos futuros onde aplicarei conceitos de responsividade.
 
